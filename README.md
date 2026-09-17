@@ -104,37 +104,6 @@ An implementation-focused project exploring CPU scheduling concepts and algorith
 
 ---
 
-## Experience
-
-**Full-Stack Web Development Intern — Teachnook**  
-*September 2024 – October 2024*
-
-Worked on web applications, debugging, code optimization, and collaborative development.
-
-**Content Writing Intern — iNamigos Foundation**  
-*February 2024 – March 2024*
-
-Worked on technical and creative content, research, and collaborative projects.
-
----
-
-## Education
-
-**Bachelor of Computer Applications (BCA)**  
-Jaypee Institute of Information Technology (JIIT), Noida  
-**2024 – 2027 · CGPA: 8.21/10**
-
----
-
-## Certifications
-
-- **Google Analytics Certification** — Google Skillshop · 2026
-- **Gen AI Engineering** — Outskill · 2024
-- **Python 101 for Data Science** — IBM · 2024
-- **SQL for Data Analysis** — Udemy / MTF Institute · 2026
-
----
-
 ## Currently Learning
 
 `Data Structures & Algorithms` · `React` · `Backend Development` · `SQL & Database Design` · `Data Analytics` · `Machine Learning` · `Applied AI`
